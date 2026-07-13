@@ -1,0 +1,17 @@
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+
+    <p>📍 Osaka, Japan</p>
+    <p>📞 +81 90-1234-5678</p>
+    <p>📧 aashabeautysalon@gmail.com</p>
+
+    <form>
+        <input type="text" placeholder="Your Name" required><br><br>
+
+        <input type="email" placeholder="Your Email" required><br><br>
+
+        <textarea placeholder="Your Message" rows="5"></textarea><br><br>
+
+        <button type="submit">Send Message</button>
+    </form>
+</section>
