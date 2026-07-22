@@ -1,3 +1,4 @@
+alert("This parlor is not exist in real life");
 // ==========================
 // Aasha Beauty Salon
 // script.js
